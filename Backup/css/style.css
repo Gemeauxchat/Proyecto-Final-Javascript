@@ -1,0 +1,56 @@
+header{
+    color:green;
+    text-align: center;
+    padding:60px;
+}
+
+/*.flex{
+    display:flex;
+}
+*/
+
+.buttons{
+    display:flex;
+    justify-content: center;
+}
+
+.btn{
+margin:10px;
+}
+
+.lista{
+    margin:40px 10px;
+    padding:10px;
+    background-color:lightgoldenrodyellow;
+    border-radius: 10px;
+   
+}
+
+#formulario{
+    padding:20px;
+}
+.title{
+    color:chocolate;
+    display:flex;
+    justify-content: center;
+    padding: 20px;
+}
+.verificar{
+    background-color: grey;
+    color:white;
+    padding:20px;
+}
+.container{
+    display:flex;
+    justify-content:right;
+    margin:0px;
+
+}
+#verificar{
+}
+
+.s-title{
+    display:flex;
+    justify-items:center;
+    
+}
